@@ -1,0 +1,20 @@
+Life Cycle methods
+.....................
+eg.i) componentWillUnmount()
+component is removed from DOM
+ii)componentDidMount()
+component is added to DOM
+
+features of life cycle
+........................
+*Automatically called
+*if required ,then implement the appropriate life cycle method
+*whether you implement or not they are called at different phase of life cycle
+
+
+types of components
+............................
+class based 
+function based
+pure 
+higher order
