@@ -35,4 +35,17 @@ class based:
 function based
 ...................
 -Immutable
--default
+-default from react >=16.8
+-by-default you cann't use life cycle methods,context api,Redux
+-values can be passed from outside component
+-also k/w as stateless or presentation components
+
+pure Component
+...................
+-subset of class based components
+-will get rendered if and only if there are some changes on the components
+-from react>=16.8 it can be represented both function based,class based
+-optimizes the performance time
+-returns an object or an array to re-render
+
+
