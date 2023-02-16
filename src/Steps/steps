@@ -26,4 +26,13 @@ class based:
 .................
 -Mutable
 -can overide the functionalities of lifecycle methods
--values can be passed either wi
+-values can be passed either within the component or outside the component
+-enhanced with context Api,redux
+-explicitly inherit from React.component
+-must overriding the render method
+-aslo known as container or stateful components
+
+function based
+...................
+-Immutable
+-default
