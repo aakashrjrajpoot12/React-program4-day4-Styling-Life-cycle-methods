@@ -18,3 +18,12 @@ class based
 function based
 pure 
 higher order
+
+
+
+
+class based:
+.................
+-Mutable
+-can overide the functionalities of lifecycle methods
+-values can be passed either wi
