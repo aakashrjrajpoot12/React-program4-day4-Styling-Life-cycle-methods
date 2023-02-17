@@ -48,4 +48,12 @@ pure Component
 -optimizes the performance time
 -returns an object or an array to re-render
 
+Higer order Component(HOC)
+.........................
+-used to deploy common functionality across various components of the application
+-used to reduce code redundancy
+-HOC are function based components which takes component as argument and return component with added features.
+
+
+
 
